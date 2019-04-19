@@ -1,8 +1,0 @@
-import:
-  credentials: administrator
-
-importSelect:
-  credentials: administrator
-
-all:
-  is_secure: true
